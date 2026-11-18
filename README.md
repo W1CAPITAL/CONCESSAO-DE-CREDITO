@@ -2,6 +2,14 @@
 
 **Projeto Concessão de Crédito**
 
+<!-- W1_DISTRIBUICAO_INICIO -->
+## Distribuição no ecossistema W1
+
+Estudo de ciência de dados em notebooks Python, sem aplicativo ou instalador Windows publicado. A distribuição dos aplicativos desktop da W1 Capital é feita pela [Central de Apps](https://github.com/W1CAPITAL/Central-de-Apps); este repositório não é um produto instalável da loja.
+
+[Catálogo de aplicativos](https://github.com/W1CAPITAL/Central-de-Apps/blob/main/docs/ECOSSISTEMA-W1.md) · [Releases da Central](https://github.com/W1CAPITAL/Central-de-Apps/releases)
+<!-- W1_DISTRIBUICAO_FIM -->
+
 O projeto foi desenvolvido utilizando linguagem **Python** no Jupyter Notebook. O python possui um série de bibliotecas que nos auxiliam na construção das análises e modelagem dos dados. Neste projeto, foram utilizadas as seguintes:
 
    - Pandas
